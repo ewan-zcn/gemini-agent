@@ -1,0 +1,4 @@
+project_id: ewans-demo-project
+agents:
+  - name: bigquery_analyst
+    path: bigquery_analyst
